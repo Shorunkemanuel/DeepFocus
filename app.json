@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "DeepFocus",
-    "slug": "DeepFocus",
+    "slug": "deepfocus-",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +28,13 @@
     },
     "plugins": [
       "expo-router"
-    ]
+    ],
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "67a3fc29-9035-41b5-addb-79566bdbdafe"
+      }
+    },
+    "owner": "shorunkemanuel"
   }
 }
